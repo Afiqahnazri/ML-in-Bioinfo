@@ -1,1 +1,2 @@
-# ML-in-Bioinfo
+# Mutation Prediction Using Machine Learning Models
+This repository contains the code and resources for a project focused on predicting genomic mutations using various machine learning models, including RNN-LSTM, GRU, Random Forest, and Linear Regression. The project involves feature extraction from genomic sequences using TF-IDF, one-hot encoding, and single hot vector methods. The performance of the models is evaluated using metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared (R²). This work contributes to understanding how different encoding techniques and models can be leveraged to predict mutations in genomic data.
